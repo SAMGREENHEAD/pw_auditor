@@ -1,2 +1,0 @@
-[console_scripts]
-pw-auditor = pw_auditor.cli:main
