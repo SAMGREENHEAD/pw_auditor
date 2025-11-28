@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+pw_auditor/__init__.py
+pw_auditor/auditor.py
+pw_auditor/cli.py
+pw_auditor/entropy.py
+pw_auditor/patterns.py
+pw_auditor.egg-info/PKG-INFO
+pw_auditor.egg-info/SOURCES.txt
+pw_auditor.egg-info/dependency_links.txt
+pw_auditor.egg-info/entry_points.txt
+pw_auditor.egg-info/top_level.txt
+tests/test_auditor.py

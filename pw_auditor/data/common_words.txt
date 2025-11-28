@@ -1,0 +1,10 @@
+password
+admin
+welcome
+user
+login
+secret
+qwerty
+hello
+letmein
+pass
