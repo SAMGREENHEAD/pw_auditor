@@ -1,5 +1,5 @@
 # pw-auditor  
-Offline Password Strength Auditor — Entropy + Pattern Analysis
+Offline Password Strength Auditor - Entropy + Pattern Analysis
 
 `pw-auditor` is a lightweight, privacy-preserving Python tool for evaluating password strength entirely offline.  
 It combines entropy estimation with pattern detection to identify weak or predictable passwords and provide actionable suggestions.
